@@ -1,15 +1,15 @@
 <template>
-  <div id="about">
-     about
+  <div id="err">
+     404，页面找不到了
   </div>
 </template>
  
 <script>
   export default {
-    name: 'about',
+    name: 'err',
     data () {
       return {
-        msg:'Welcome to your about'
+        msg:'Welcome to your err'
       }
     }
   }

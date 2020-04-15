@@ -1,15 +1,15 @@
 <template>
-  <div id="about">
-     about
+  <div class="download">
+     Download
   </div>
 </template>
  
 <script>
   export default {
-    name: 'about',
+    name: 'download',
     data () {
       return {
-        msg:'Welcome to your about'
+        msg:'Welcome to your download'
       }
     }
   }

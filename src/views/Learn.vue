@@ -1,20 +1,21 @@
+
 <template>
-  <div id="about">
-     about
+  <div class="learn">
+     learn
   </div>
 </template>
  
 <script>
   export default {
-    name: 'about',
+    name: 'vueName',
     data () {
       return {
-        msg:'Welcome to your about'
+        msg:'Welcome to your vueName'
       }
     }
   }
 </script>
  
-<style scoped lang="scss">
+<style scoped lang="sass">
   
 </style>

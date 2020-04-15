@@ -1,5 +1,5 @@
 {
-  "name": "router-project1",
+  "name": "router-project",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -15,7 +15,10 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.1.0",
     "@vue/cli-service": "^4.1.0",
-    "vue-template-compiler": "^2.6.10"
+    "node-sass": "^4.13.0",
+    "sass-loader": "^8.0.0",
+    "vue-template-compiler": "^2.6.10",
+    "webpack": "^4.41.4"
   },
   "browserslist": [
     "> 1%",
